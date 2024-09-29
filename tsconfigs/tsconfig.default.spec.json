@@ -1,0 +1,10 @@
+{
+  "extends": ["./tsconfig.default.json"],
+  "compilerOptions": {
+    "composite": true
+  },
+  "include": [
+    "../packages/*/tests/**/*.ts",
+    "../packages/*/tests/**/*.spec.ts"
+  ]
+}
