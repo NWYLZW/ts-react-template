@@ -1,4 +1,4 @@
-# TypeScript Web Monorepo Template
+# TypeScript React Template
 
 | zh-Hans | [en-US](.about/en-US/README.md) |
 
@@ -6,7 +6,6 @@
 
 ## 为什么用我
 
-- 轻量：未引入框架，只有最基础的工具链，可以灵活决定项目技术栈
 - 安全：类型系统的设计更加准确，带来的是完善的检查机制
 - 丰富：整理了常见的场景的最佳实践，可以很方便的根据已有内容快速扩张迭代
 - 现代：使用支持**最规范**也是**最前沿**的标准来决定项目的组织方式

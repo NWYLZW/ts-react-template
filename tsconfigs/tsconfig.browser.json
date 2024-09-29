@@ -3,6 +3,7 @@
   "compilerOptions": {
     "composite": true,
     "target": "esnext",
+    "jsx": "react-jsx",
     "lib": ["ES2019", "dom"],
     "customConditions": ["browser"],
     "module": "esnext",

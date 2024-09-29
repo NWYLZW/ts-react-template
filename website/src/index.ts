@@ -4,7 +4,7 @@ import { name } from '@mono/utils/readFile'
 //       ^?
 import type { Numbers, Strings, User } from '@mono/share'
 
-import '#~/main.ts'
+import '#~/main.tsx'
 
 // eslint-disable-next-line no-console
 console.log(name)
