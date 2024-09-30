@@ -2,11 +2,11 @@
   "extends": ["./tsconfig.base.json"],
   "compilerOptions": {
     "composite": true,
-    "target": "esnext",
+    "target": "ESNext",
     "jsx": "react-jsx",
     "lib": ["ES2019", "dom"],
     "customConditions": ["browser"],
-    "module": "esnext",
+    "module": "ESNext",
     "moduleResolution": "bundler",
     "types": []
   },
